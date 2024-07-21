@@ -34,8 +34,6 @@ Me presento!!!
 
   ![Lenguajes](https://skillicons.dev/icons?i=py,java,mysql)
   ![Web](https://skillicons.dev/icons?i=html,css)
-  
-<br/>
 
 <h3>💻 Software Y herramientas<h3/>
   
