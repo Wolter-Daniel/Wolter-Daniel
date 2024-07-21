@@ -12,9 +12,11 @@
 
 Me presento!!!
               Soy Daniel Andres Wolter un joven de 23 años apasionado por la tecnologia...
-- 🔭 **Actualmente estudio la Lic. Ciencia de Datos en Ucasal**
+- 🔭 **Actualmente estudio Lic. Ciencia de Datos en Ucasal**
 - 🌱 **Soy autodidacta y muy curioso, lo que hace que siempre este aprendiendo cosas nuevas.**
-- ⚡ **Pasatiempos: Tocar la guitarra, trakking, gym, viajar en moto**
+- ⚡ **Pasatiempos: Tocar la guitarra, trakking, gym, viajar en moto.**
+- 🎶 **Musica: Electronica, Rock.**
+- 🏎️ **Apasionado por el automovilismo**
 
 <br/>
 <br/>
